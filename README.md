@@ -1,2 +1,3 @@
 # To-Do-List-Application-Project
-By Josh Mccrary
+Creating a To-Do-List-Application 
+> COMING SOON
